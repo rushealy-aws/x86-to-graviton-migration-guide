@@ -1538,7 +1538,7 @@ echo "3. Evaluate newer Graviton generations for better performance"
 - **[EC2 Deep Dive](https://aws.amazon.com/training/classroom/deep-dive-amazon-ec2/)** - Advanced EC2 training
 
 #### Hands-On Labs
-- **[AWS Workshops](https://workshops.aws/)** - Interactive learning experiences
+- **[AWS Workshops](https://catalog.us-east-1.prod.workshops.aws/workshops/2d8b3460-3bff-49a0-a6af-cb4c7460e70c/en-US)** - Interactive learning experiences
 - **[Graviton Fast Start](https://aws.amazon.com/ec2/graviton/fast-start/)** - Quick deployment templates
 - **[AWS Samples](https://github.com/aws-samples)** - Sample applications and code
 
